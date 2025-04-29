@@ -1,0 +1,158 @@
+[
+  {
+    "id": "1",
+    "title": "Válvula inversora calor",
+    "description": "Válvula inversonar calor 4 Vías Split Hasta 6500 F 3/8 Y 5/8",
+    "code": "P001",
+    "price": 53000,
+    "status": true,
+    "stock": 15,
+    "category": "Aire Acondicionado",
+    "thumbnails": [
+      "https://www.repuestoscimer.com.ar/images/productos/1624558088D_NQ_NP_897183-MLA27866494638_072018-O-removebg-preview.png"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Evaporadora New San",
+    "description": "Evaporadora 6.0KW New San",
+    "code": "P002",
+    "price": 130000,
+    "status": true,
+    "stock": 15,
+    "category": "Aire Acondicionado",
+    "thumbnails": [
+      "https://www.repuestosrefrigeracion.com.ar/img/articulos/00000867_1.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Motor para condensador",
+    "description": "Motor para condensador",
+    "code": "P003",
+    "price": 200000,
+    "status": true,
+    "stock": 15,
+    "category": "Aire Acondicionado",
+    "thumbnails": [
+      "https://media.nidux.net/pull/800/599/10635/909-product-5e471a35f0f20-13310-1.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Tarjeta universal para mini split",
+    "description": "Tarjeta universal para mini split display",
+    "code": "P004",
+    "price": 50000,
+    "status": true,
+    "stock": 15,
+    "category": "Aire Acondicionado",
+    "thumbnails": [
+      "https://media.nidux.net/pull/800/599/10635/916-product-5e4718ae72cff-20509-1.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Tubería de cobre",
+    "description": "Tubería flexible de cobre",
+    "code": "P005",
+    "price": 15000,
+    "status": true,
+    "stock": 15,
+    "category": "Aire Acondicionado",
+    "thumbnails": [
+      "https://media.nidux.net/pull/800/599/10635/1092-product-5e4d66ae1e293-20243-1.jpg"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Kit de carga R-410",
+    "description": "Kit de carga R-410 + Mamifold + Mangueras",
+    "code": "P006",
+    "price": 61000,
+    "status": true,
+    "stock": 15,
+    "category": "Kits de carga",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_620126-MLA31094923231_062019-F.webp"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Gas Freon 410a garrafa",
+    "description": "Gas Freon 410a Necton garrafa x5.6kg Aire Acondicionado",
+    "code": "P007",
+    "price": 131000,
+    "status": true,
+    "stock": 15,
+    "category": "Kits de carga",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_672731-MLA81923083916_012025-F.webp"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Plaqueta Gafa 7500",
+    "description": "Plaqueta Gafa 7500 Acquarius Fuzzy Logic Nacional",
+    "code": "P008",
+    "price": 50000,
+    "status": true,
+    "stock": 15,
+    "category": "Lavarropas",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_832736-MLA45227460409_032021-F.webp"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Blocapuerta Samsung WF",
+    "description": "Blocapuerta Lavarropas Samsung WF 1702 1804 1904 8650",
+    "code": "P009",
+    "price": 30000,
+    "status": true,
+    "stock": 15,
+    "category": "Lavarropas",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_798674-MLA46901100518_072021-F.webp"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Manguera de carga 1.5 mts",
+    "description": "Manguera de carga 1.5 mts compatible con Drean Blue Next",
+    "code": "P010",
+    "price": 6000,
+    "status": true,
+    "stock": 15,
+    "category": "Lavarropas",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_603547-MLA49856235227_052022-F.webp"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Eje tambor sólo lavarropas",
+    "description": "Eje soporte tambor sólo lavarropas Bosch Europa Euro 600",
+    "code": "P011",
+    "price": 46000,
+    "status": true,
+    "stock": 15,
+    "category": "Lavarropas",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_783266-MLA31054766812_062019-F.webp"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Juego agitador lavarropas Longvie",
+    "description": "Juego agitador x3 Lavarropas Longvie L8012 L8010 L6510 L6508",
+    "code": "P012",
+    "price": 13000,
+    "status": true,
+    "stock": 15,
+    "category": "Lavarropas",
+    "thumbnails": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_904066-MLA75308955146_032024-F.webp"
+    ]
+  }
+]
