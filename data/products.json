@@ -1,18 +1,5 @@
 [
   {
-    "id": "1",
-    "title": "Válvula inversora calor",
-    "description": "Válvula inversonar calor 4 Vías Split Hasta 6500 F 3/8 Y 5/8",
-    "code": "P001",
-    "price": 53000,
-    "status": true,
-    "stock": 15,
-    "category": "Aire Acondicionado",
-    "thumbnails": [
-      "https://www.repuestoscimer.com.ar/images/productos/1624558088D_NQ_NP_897183-MLA27866494638_072018-O-removebg-preview.png"
-    ]
-  },
-  {
     "id": "2",
     "title": "Evaporadora New San",
     "description": "Evaporadora 6.0KW New San",

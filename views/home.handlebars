@@ -1,0 +1,12 @@
+<h2 style="text-align:center;">Lista de productos (vista estática)</h2>
+
+<ul style="max-width: 600px; margin: 0 auto;">
+  {{#each products}}
+    <li style="margin-bottom: 10px; padding: 10px; border: 1px solid #ccc;">
+      <strong>{{title}}</strong><br>
+      {{description}}<br>
+      <em>Precio: ${{price}}</em><br>
+      <em>Stock: {{stock}}</em>
+    </li>
+  {{/each}}
+</ul>

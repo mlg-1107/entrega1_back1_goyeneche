@@ -42,10 +42,11 @@ export default class ProductManager {
 
   async deleteProduct(id) {
     const products = await this.getProducts();
-    const filtered = products.filter(p => p.id !== id);
+    const filtered = products.filter(p => p.id !== id.toString());
+
     
     if (products.length === filtered.length) {
-      // No se eliminó nada porque no se encontró el id
+      // No se elimina nada porque no se enccuentra el id
       return false;
     }
 
